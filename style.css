@@ -14,7 +14,7 @@ body{
 }
 .container{
     background-color: #FFFFFF;
-    height: fit-content;
+    height: min-content;
     border-radius: 20px;
     width: 400px;
     padding: 40px 0 40px 0;
